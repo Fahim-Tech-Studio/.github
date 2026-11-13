@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Fahim-Tech-Studio/.github/main/banner.png.jpg" width="100%" alt="Fahim Tech Studio Banner" />
+
 ### Welcome to Fahim Tech Studio 👋
 **Enterprise Software Engineering & System Integration Agency**
 
